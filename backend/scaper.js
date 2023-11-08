@@ -108,7 +108,7 @@ function groupStrings(arr) {
 fetchTableData('https://serenesforest.net/the-sacred-stones/characters/base-stats/')
     .then(data => {
         console.dir(data, {depth: 10})
-        const fileName = 'data/fe8/units.json'
+        const fileName = 'data/8/units.json'
         writeFileSync(fileName, JSON.stringify(data, null, 2), 'utf-8', err => {
             if (err) {
                 console.error('Error writing file:', err);
