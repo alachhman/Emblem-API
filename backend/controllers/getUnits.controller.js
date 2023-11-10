@@ -15,3 +15,4 @@ exports.getData = async (req, res) => {
         await sendJSON(req.query.game, VALUE, res);
     }
 };
+

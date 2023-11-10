@@ -24,7 +24,7 @@ function parseHeaders($, row) {
 }
 
 // Function to parse row data based on headers
-function parseRowData($, row, headers) {
+const parseRowData = ($, row, headers) => {
     const rowData = {};
     $(row).find('td').each((colIndex, col) => {
         const cellData = [];
@@ -52,29 +52,31 @@ function parseRowData($, row, headers) {
     }
 }
 
-// Function to parse table data
-function parseTable($, table) {
+function parseTable($, table, callback) {
     const tableRows = [];
     let headers = [];
     $(table).find('tr').each((rowIndex, row) => {
         if (rowIndex === 0) {
             headers = parseHeaders($, row);
         } else {
-            const rowData = parseRowData($, row, headers);
-            tableRows.push(rowData);
+            const rowData = callback($, row, headers);
+            if (rowData!== undefined) {
+                tableRows.push(rowData);
+            }
         }
     });
-    return tableRows.filter(x => x !== undefined);
+    return tableRows;
 }
 
+
 // Main function to fetch and process table data
-async function fetchTableData(url) {
+async function fetchTableData(url, tableParserCallback) {
     try {
         const htmlData = await fetchHtml(url);
         const $ = cheerio.load(htmlData);
         const tableData = [];
         $('table').each((_, table) => {
-            const tableRows = parseTable($, table);
+            const tableRows = parseTable($, table, tableParserCallback);
             tableData.push(tableRows);
         });
         return {units: [tableData.reduce((acc, curr) => acc.concat(curr), [])][0]};
@@ -105,7 +107,7 @@ function groupStrings(arr) {
     return result;
 }
 
-fetchTableData('https://serenesforest.net/the-sacred-stones/characters/base-stats/')
+fetchTableData('https://serenesforest.net/the-sacred-stones/characters/base-stats/', parseRowData)
     .then(data => {
         console.dir(data, {depth: 10})
         const fileName = 'data/8/units.json'
