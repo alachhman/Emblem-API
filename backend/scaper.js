@@ -31,7 +31,6 @@ const parseRowData = ($, row, headers) => {
         $(col).contents().each((itemIndex, item) => {
             let text = $(item).text().trim();
             let imgAlt = $(item).find('img').attr('alt');
-
             if (imgAlt) {
                 text = imgAlt;
             }
@@ -45,11 +44,12 @@ const parseRowData = ($, row, headers) => {
         rowData[headers[colIndex]] = cellData.length > 1 ? cellData : cellData[0];
     })
 
-    if(rowData.Name) {
-        rowData['Weapon Rank'] = groupStrings(rowData['Weapon Rank'])
-
-        return rowData
-    }
+    // if(rowData.Class) {
+    //
+    //     rowData['Weapon Ranks'] = groupStrings(rowData['Weapon Ranks'])
+    //     return rowData
+    // }
+    return rowData
 }
 
 function parseTable($, table, callback) {
@@ -79,7 +79,7 @@ async function fetchTableData(url, tableParserCallback) {
             const tableRows = parseTable($, table, tableParserCallback);
             tableData.push(tableRows);
         });
-        return {units: [tableData.reduce((acc, curr) => acc.concat(curr), [])][0]};
+        return {classes: [tableData.reduce((acc, curr) => acc.concat(curr), [])][0]};
     } catch (error) {
         console.error('Error:', error);
         throw error;
@@ -107,10 +107,10 @@ function groupStrings(arr) {
     return result;
 }
 
-fetchTableData('https://serenesforest.net/the-sacred-stones/characters/base-stats/', parseRowData)
+fetchTableData('https://serenesforest.net/the-sacred-stones/classes/growth-rates/', parseRowData)
     .then(data => {
         console.dir(data, {depth: 10})
-        const fileName = 'data/8/units.json'
+        const fileName = 'data/sacred_stones/classesGrowths.json'
         writeFileSync(fileName, JSON.stringify(data, null, 2), 'utf-8', err => {
             if (err) {
                 console.error('Error writing file:', err);
