@@ -1,0 +1,466 @@
+{
+  "units": [
+    {
+      "Name": "Eirika",
+      "HP": 70,
+      "S/M": 40,
+      "Skl": 60,
+      "Spd": 60,
+      "Lck": 60,
+      "Def": 30,
+      "Res": 30
+    },
+    {
+      "Name": "Seth",
+      "HP": 90,
+      "S/M": 50,
+      "Skl": 45,
+      "Spd": 45,
+      "Lck": 25,
+      "Def": 40,
+      "Res": 30
+    },
+    {
+      "Name": "Franz",
+      "HP": 80,
+      "S/M": 40,
+      "Skl": 40,
+      "Spd": 50,
+      "Lck": 40,
+      "Def": 25,
+      "Res": 20
+    },
+    {
+      "Name": "Gilliam",
+      "HP": 90,
+      "S/M": 45,
+      "Skl": 35,
+      "Spd": 30,
+      "Lck": 30,
+      "Def": 55,
+      "Res": 20
+    },
+    {
+      "Name": "Moulder",
+      "HP": 70,
+      "S/M": 40,
+      "Skl": 50,
+      "Spd": 40,
+      "Lck": 20,
+      "Def": 25,
+      "Res": 25
+    },
+    {
+      "Name": "Vanessa",
+      "HP": 50,
+      "S/M": 35,
+      "Skl": 55,
+      "Spd": 60,
+      "Lck": 50,
+      "Def": 20,
+      "Res": 30
+    },
+    {
+      "Name": "Ross",
+      "HP": 70,
+      "S/M": 50,
+      "Skl": 35,
+      "Spd": 30,
+      "Lck": 40,
+      "Def": 25,
+      "Res": 20
+    },
+    {
+      "Name": "Garcia",
+      "HP": 80,
+      "S/M": 65,
+      "Skl": 40,
+      "Spd": 20,
+      "Lck": 40,
+      "Def": 25,
+      "Res": 15
+    },
+    {
+      "Name": "Neimi",
+      "HP": 55,
+      "S/M": 45,
+      "Skl": 50,
+      "Spd": 60,
+      "Lck": 50,
+      "Def": 15,
+      "Res": 35
+    },
+    {
+      "Name": "Colm",
+      "HP": 75,
+      "S/M": 40,
+      "Skl": 40,
+      "Spd": 65,
+      "Lck": 45,
+      "Def": 25,
+      "Res": 20
+    },
+    {
+      "Name": "Artur",
+      "HP": 55,
+      "S/M": 50,
+      "Skl": 50,
+      "Spd": 40,
+      "Lck": 25,
+      "Def": 15,
+      "Res": 55
+    },
+    {
+      "Name": "Lute",
+      "HP": 45,
+      "S/M": 65,
+      "Skl": 30,
+      "Spd": 45,
+      "Lck": 45,
+      "Def": 15,
+      "Res": 40
+    },
+    {
+      "Name": "Natasha",
+      "HP": 50,
+      "S/M": 60,
+      "Skl": 25,
+      "Spd": 40,
+      "Lck": 60,
+      "Def": 15,
+      "Res": 55
+    },
+    {
+      "Name": "Joshua",
+      "HP": 80,
+      "S/M": 35,
+      "Skl": 55,
+      "Spd": 55,
+      "Lck": 30,
+      "Def": 20,
+      "Res": 20
+    },
+    {
+      "Name": "Ephraim",
+      "HP": 80,
+      "S/M": 55,
+      "Skl": 55,
+      "Spd": 45,
+      "Lck": 50,
+      "Def": 35,
+      "Res": 25
+    },
+    {
+      "Name": "Forde",
+      "HP": 85,
+      "S/M": 40,
+      "Skl": 50,
+      "Spd": 45,
+      "Lck": 35,
+      "Def": 20,
+      "Res": 25
+    },
+    {
+      "Name": "Kyle",
+      "HP": 90,
+      "S/M": 50,
+      "Skl": 40,
+      "Spd": 40,
+      "Lck": 20,
+      "Def": 25,
+      "Res": 20
+    },
+    {
+      "Name": "Tana",
+      "HP": 65,
+      "S/M": 45,
+      "Skl": 40,
+      "Spd": 65,
+      "Lck": 60,
+      "Def": 20,
+      "Res": 25
+    },
+    {
+      "Name": "Amelia",
+      "HP": 60,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 40,
+      "Lck": 50,
+      "Def": 30,
+      "Res": 15
+    },
+    {
+      "Name": "Innes",
+      "HP": 75,
+      "S/M": 40,
+      "Skl": 40,
+      "Spd": 45,
+      "Lck": 45,
+      "Def": 20,
+      "Res": 25
+    },
+    {},
+    {
+      "Name": "Gerik",
+      "HP": 90,
+      "S/M": 45,
+      "Skl": 40,
+      "Spd": 30,
+      "Lck": 30,
+      "Def": 35,
+      "Res": 25
+    },
+    {
+      "Name": "Tethys",
+      "HP": 85,
+      "S/M": 5,
+      "Skl": 10,
+      "Spd": 70,
+      "Lck": 80,
+      "Def": 30,
+      "Res": 75
+    },
+    {
+      "Name": "Marisa",
+      "HP": 75,
+      "S/M": 30,
+      "Skl": 55,
+      "Spd": 60,
+      "Lck": 50,
+      "Def": 15,
+      "Res": 25
+    },
+    {
+      "Name": "L’Arachel",
+      "HP": 45,
+      "S/M": 50,
+      "Skl": 45,
+      "Spd": 45,
+      "Lck": 65,
+      "Def": 15,
+      "Res": 50
+    },
+    {
+      "Name": "Dozla",
+      "HP": 85,
+      "S/M": 50,
+      "Skl": 35,
+      "Spd": 40,
+      "Lck": 30,
+      "Def": 30,
+      "Res": 25
+    },
+    {
+      "Name": "Saleh",
+      "HP": 50,
+      "S/M": 30,
+      "Skl": 25,
+      "Spd": 40,
+      "Lck": 40,
+      "Def": 30,
+      "Res": 35
+    },
+    {
+      "Name": "Ewan",
+      "HP": 50,
+      "S/M": 45,
+      "Skl": 40,
+      "Spd": 35,
+      "Lck": 50,
+      "Def": 15,
+      "Res": 40
+    },
+    {
+      "Name": "Cormag",
+      "HP": 85,
+      "S/M": 55,
+      "Skl": 40,
+      "Spd": 45,
+      "Lck": 35,
+      "Def": 25,
+      "Res": 15
+    },
+    {
+      "Name": "Rennac",
+      "HP": 65,
+      "S/M": 25,
+      "Skl": 45,
+      "Spd": 60,
+      "Lck": 25,
+      "Def": 25,
+      "Res": 30
+    },
+    {
+      "Name": "Duessel",
+      "HP": 85,
+      "S/M": 55,
+      "Skl": 40,
+      "Spd": 30,
+      "Lck": 20,
+      "Def": 45,
+      "Res": 30
+    },
+    {
+      "Name": "Knoll",
+      "HP": 70,
+      "S/M": 50,
+      "Skl": 40,
+      "Spd": 35,
+      "Lck": 20,
+      "Def": 10,
+      "Res": 45
+    },
+    {
+      "Name": "Myrrh",
+      "HP": 130,
+      "S/M": 90,
+      "Skl": 85,
+      "Spd": 65,
+      "Lck": 30,
+      "Def": 150,
+      "Res": 30
+    },
+    {
+      "Name": "Syrene",
+      "HP": 70,
+      "S/M": 40,
+      "Skl": 50,
+      "Spd": 60,
+      "Lck": 30,
+      "Def": 20,
+      "Res": 50
+    },
+    {
+      "Name": "Caellach",
+      "HP": 85,
+      "S/M": 50,
+      "Skl": 45,
+      "Spd": 45,
+      "Lck": 20,
+      "Def": 30,
+      "Res": 20
+    },
+    {
+      "Name": "Orson",
+      "HP": 80,
+      "S/M": 55,
+      "Skl": 45,
+      "Spd": 40,
+      "Lck": 25,
+      "Def": 45,
+      "Res": 30
+    },
+    {
+      "Name": "Riev",
+      "HP": 75,
+      "S/M": 45,
+      "Skl": 50,
+      "Spd": 40,
+      "Lck": 15,
+      "Def": 20,
+      "Res": 45
+    },
+    {
+      "Name": "Ismaire",
+      "HP": 75,
+      "S/M": 30,
+      "Skl": 60,
+      "Spd": 55,
+      "Lck": 30,
+      "Def": 20,
+      "Res": 25
+    },
+    {
+      "Name": "Selena",
+      "HP": 85,
+      "S/M": 40,
+      "Skl": 55,
+      "Spd": 40,
+      "Lck": 25,
+      "Def": 20,
+      "Res": 30
+    },
+    {
+      "Name": "Glen",
+      "HP": 85,
+      "S/M": 45,
+      "Skl": 50,
+      "Spd": 45,
+      "Lck": 20,
+      "Def": 35,
+      "Res": 40
+    },
+    {
+      "Name": "Hayden",
+      "HP": 70,
+      "S/M": 40,
+      "Skl": 45,
+      "Spd": 45,
+      "Lck": 40,
+      "Def": 25,
+      "Res": 25
+    },
+    {},
+    {
+      "Name": "Valter",
+      "HP": 80,
+      "S/M": 40,
+      "Skl": 55,
+      "Spd": 50,
+      "Lck": 15,
+      "Def": 20,
+      "Res": 20
+    },
+    {
+      "Name": "Fado",
+      "HP": 85,
+      "S/M": 55,
+      "Skl": 40,
+      "Spd": 30,
+      "Lck": 25,
+      "Def": 45,
+      "Res": 25
+    },
+    {
+      "Name": "Lyon",
+      "HP": 85,
+      "S/M": 50,
+      "Skl": 55,
+      "Spd": 55,
+      "Lck": 30,
+      "Def": 45,
+      "Res": 55
+    },
+    {
+      "Name": "Knoll’s Phantom",
+      "HP": 0,
+      "S/M": 50,
+      "Skl": 50,
+      "Spd": 40,
+      "Lck": 55,
+      "Def": 0,
+      "Res": 0
+    },
+    {
+      "Name": "Ewan’s Phantom",
+      "HP": 0,
+      "S/M": 70,
+      "Skl": 40,
+      "Spd": 20,
+      "Lck": 40,
+      "Def": 0,
+      "Res": 0
+    },
+    {
+      "Name": "Lyon’s Phantom",
+      "HP": 0,
+      "S/M": 60,
+      "Skl": 45,
+      "Spd": 30,
+      "Lck": 60,
+      "Def": 0,
+      "Res": 0
+    }
+  ]
+}

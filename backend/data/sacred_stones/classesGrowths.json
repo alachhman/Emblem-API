@@ -1,0 +1,978 @@
+{
+  "classes": [
+    {
+      "Class": "Lord (M)",
+      "HP": 90,
+      "S/M": 45,
+      "Skl": 40,
+      "Spd": 45,
+      "Lck": 40,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Lord (F)",
+      "HP": 90,
+      "S/M": 45,
+      "Skl": 40,
+      "Spd": 45,
+      "Lck": 40,
+      "Def": 15,
+      "Res": 20
+    },
+    {
+      "Class": "Great Lord (M)",
+      "HP": 90,
+      "S/M": 45,
+      "Skl": 40,
+      "Spd": 45,
+      "Lck": 40,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Great Lord (F)",
+      "HP": 90,
+      "S/M": 45,
+      "Skl": 40,
+      "Spd": 45,
+      "Lck": 40,
+      "Def": 15,
+      "Res": 20
+    },
+    {
+      "Class": "Dancer",
+      "HP": 45,
+      "S/M": 45,
+      "Skl": 30,
+      "Spd": 60,
+      "Lck": 70,
+      "Def": 0,
+      "Res": 13
+    },
+    {
+      "Class": "Soldier",
+      "HP": 80,
+      "S/M": 50,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 25,
+      "Def": 12,
+      "Res": 15
+    },
+    {
+      "Class": "Cavalier (M)",
+      "HP": 75,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 28,
+      "Lck": 30,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Cavalier (F)",
+      "HP": 75,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 28,
+      "Lck": 30,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Paladin (M)",
+      "HP": 70,
+      "S/M": 25,
+      "Skl": 30,
+      "Spd": 18,
+      "Lck": 25,
+      "Def": 12,
+      "Res": 20
+    },
+    {
+      "Class": "Paladin (F)",
+      "HP": 70,
+      "S/M": 25,
+      "Skl": 35,
+      "Spd": 25,
+      "Lck": 25,
+      "Def": 12,
+      "Res": 25
+    },
+    {
+      "Class": "Great Knight (M)",
+      "HP": 70,
+      "S/M": 30,
+      "Skl": 20,
+      "Spd": 15,
+      "Lck": 20,
+      "Def": 21,
+      "Res": 20
+    },
+    {
+      "Class": "Great Knight (F)",
+      "HP": 70,
+      "S/M": 30,
+      "Skl": 25,
+      "Spd": 20,
+      "Lck": 20,
+      "Def": 21,
+      "Res": 22
+    },
+    {
+      "Class": "Knight (M)",
+      "HP": 80,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 15,
+      "Lck": 25,
+      "Def": 28,
+      "Res": 20
+    },
+    {
+      "Class": "Knight (F)",
+      "HP": 80,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 15,
+      "Lck": 25,
+      "Def": 28,
+      "Res": 20
+    },
+    {
+      "Class": "General (M)",
+      "HP": 75,
+      "S/M": 30,
+      "Skl": 20,
+      "Spd": 10,
+      "Lck": 20,
+      "Def": 23,
+      "Res": 25
+    },
+    {
+      "Class": "General (F)",
+      "HP": 75,
+      "S/M": 30,
+      "Skl": 25,
+      "Spd": 10,
+      "Lck": 20,
+      "Def": 23,
+      "Res": 25
+    },
+    {
+      "Class": "Mercenary (M)",
+      "HP": 80,
+      "S/M": 40,
+      "Skl": 40,
+      "Spd": 32,
+      "Lck": 30,
+      "Def": 18,
+      "Res": 20
+    },
+    {
+      "Class": "Mercenary (F)",
+      "HP": 80,
+      "S/M": 40,
+      "Skl": 40,
+      "Spd": 32,
+      "Lck": 30,
+      "Def": 18,
+      "Res": 30
+    },
+    {
+      "Class": "Hero (M)",
+      "HP": 75,
+      "S/M": 30,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 25,
+      "Def": 20,
+      "Res": 20
+    },
+    {
+      "Class": "Hero (F)",
+      "HP": 75,
+      "S/M": 30,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 25,
+      "Def": 20,
+      "Res": 20
+    },
+    {},
+    {
+      "Class": "Myrmidon (M)",
+      "HP": 70,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 40,
+      "Lck": 30,
+      "Def": 15,
+      "Res": 20
+    },
+    {
+      "Class": "Myrmidon (F)",
+      "HP": 70,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 40,
+      "Lck": 30,
+      "Def": 15,
+      "Res": 20
+    },
+    {
+      "Class": "Swordmaster (M)",
+      "HP": 65,
+      "S/M": 25,
+      "Skl": 30,
+      "Spd": 30,
+      "Lck": 25,
+      "Def": 15,
+      "Res": 22
+    },
+    {
+      "Class": "Swordmaster (F)",
+      "HP": 65,
+      "S/M": 25,
+      "Skl": 30,
+      "Spd": 30,
+      "Lck": 25,
+      "Def": 15,
+      "Res": 22
+    },
+    {
+      "Class": "Assassin (M)",
+      "HP": 50,
+      "S/M": 5,
+      "Skl": 45,
+      "Spd": 40,
+      "Lck": 40,
+      "Def": 5,
+      "Res": 20
+    },
+    {
+      "Class": "Assassin (F)",
+      "HP": 50,
+      "S/M": 5,
+      "Skl": 45,
+      "Spd": 40,
+      "Lck": 40,
+      "Def": 5,
+      "Res": 20
+    },
+    {
+      "Class": "Thief",
+      "HP": 50,
+      "S/M": 5,
+      "Skl": 45,
+      "Spd": 40,
+      "Lck": 40,
+      "Def": 5,
+      "Res": 20
+    },
+    {
+      "Class": "Rogue",
+      "HP": 50,
+      "S/M": 10,
+      "Skl": 45,
+      "Spd": 35,
+      "Lck": 40,
+      "Def": 5,
+      "Res": 20
+    },
+    {
+      "Class": "Archer (M)",
+      "HP": 70,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 32,
+      "Lck": 35,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Archer (F)",
+      "HP": 70,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 32,
+      "Lck": 35,
+      "Def": 15,
+      "Res": 20
+    },
+    {
+      "Class": "Sniper (M)",
+      "HP": 65,
+      "S/M": 30,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 30,
+      "Def": 15,
+      "Res": 20
+    },
+    {
+      "Class": "Sniper (F)",
+      "HP": 65,
+      "S/M": 30,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 30,
+      "Def": 15,
+      "Res": 25
+    },
+    {
+      "Class": "Ranger (M)",
+      "HP": 60,
+      "S/M": 25,
+      "Skl": 30,
+      "Spd": 35,
+      "Lck": 25,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Ranger (F)",
+      "HP": 60,
+      "S/M": 25,
+      "Skl": 30,
+      "Spd": 35,
+      "Lck": 25,
+      "Def": 15,
+      "Res": 20
+    },
+    {
+      "Class": "Wyvern Rider (M)",
+      "HP": 80,
+      "S/M": 45,
+      "Skl": 35,
+      "Spd": 30,
+      "Lck": 25,
+      "Def": 25,
+      "Res": 15
+    },
+    {
+      "Class": "Wyvern Rider (F)",
+      "HP": 80,
+      "S/M": 45,
+      "Skl": 35,
+      "Spd": 30,
+      "Lck": 25,
+      "Def": 25,
+      "Res": 17
+    },
+    {
+      "Class": "Wyvern Lord (M)",
+      "HP": 75,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 20,
+      "Def": 20,
+      "Res": 17
+    },
+    {
+      "Class": "Wyvern Lord (F)",
+      "HP": 75,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 20,
+      "Def": 20,
+      "Res": 17
+    },
+    {
+      "Class": "Wyvern Knight (M)",
+      "HP": 65,
+      "S/M": 35,
+      "Skl": 30,
+      "Spd": 30,
+      "Lck": 25,
+      "Def": 15,
+      "Res": 17
+    },
+    {
+      "Class": "Wyvern Knight (F)",
+      "HP": 65,
+      "S/M": 35,
+      "Skl": 30,
+      "Spd": 30,
+      "Lck": 25,
+      "Def": 15,
+      "Res": 20
+    },
+    {},
+    {
+      "Class": "Mage (M)",
+      "HP": 55,
+      "S/M": 55,
+      "Skl": 40,
+      "Spd": 35,
+      "Lck": 20,
+      "Def": 5,
+      "Res": 30
+    },
+    {
+      "Class": "Mage (F)",
+      "HP": 55,
+      "S/M": 55,
+      "Skl": 40,
+      "Spd": 35,
+      "Lck": 20,
+      "Def": 5,
+      "Res": 40
+    },
+    {
+      "Class": "Sage (M)",
+      "HP": 45,
+      "S/M": 45,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 15,
+      "Def": 10,
+      "Res": 40
+    },
+    {
+      "Class": "Sage (F)",
+      "HP": 45,
+      "S/M": 45,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 15,
+      "Def": 10,
+      "Res": 40
+    },
+    {
+      "Class": "Mage Knight (M)",
+      "HP": 45,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 40,
+      "Lck": 30,
+      "Def": 10,
+      "Res": 40
+    },
+    {
+      "Class": "Mage Knight (F)",
+      "HP": 45,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 40,
+      "Lck": 40,
+      "Def": 10,
+      "Res": 40
+    },
+    {
+      "Class": "Monk",
+      "HP": 50,
+      "S/M": 30,
+      "Skl": 35,
+      "Spd": 32,
+      "Lck": 45,
+      "Def": 8,
+      "Res": 40
+    },
+    {
+      "Class": "Priest",
+      "HP": 50,
+      "S/M": 30,
+      "Skl": 35,
+      "Spd": 32,
+      "Lck": 45,
+      "Def": 8,
+      "Res": 50
+    },
+    {
+      "Class": "Cleric",
+      "HP": 50,
+      "S/M": 30,
+      "Skl": 35,
+      "Spd": 32,
+      "Lck": 45,
+      "Def": 8,
+      "Res": 50
+    },
+    {
+      "Class": "Bishop (M)",
+      "HP": 45,
+      "S/M": 35,
+      "Skl": 25,
+      "Spd": 22,
+      "Lck": 40,
+      "Def": 8,
+      "Res": 40
+    },
+    {
+      "Class": "Bishop (F)",
+      "HP": 45,
+      "S/M": 35,
+      "Skl": 25,
+      "Spd": 22,
+      "Lck": 40,
+      "Def": 8,
+      "Res": 50
+    },
+    {
+      "Class": "Shaman (M)",
+      "HP": 50,
+      "S/M": 50,
+      "Skl": 32,
+      "Spd": 30,
+      "Lck": 20,
+      "Def": 10,
+      "Res": 30
+    },
+    {
+      "Class": "Shaman (F)",
+      "HP": 50,
+      "S/M": 45,
+      "Skl": 32,
+      "Spd": 30,
+      "Lck": 20,
+      "Def": 10,
+      "Res": 40
+    },
+    {
+      "Class": "Druid (M)",
+      "HP": 45,
+      "S/M": 55,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 20,
+      "Def": 10,
+      "Res": 35
+    },
+    {
+      "Class": "Druid (F)",
+      "HP": 45,
+      "S/M": 55,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 20,
+      "Def": 10,
+      "Res": 35
+    },
+    {
+      "Class": "Summoner (M)",
+      "HP": 45,
+      "S/M": 50,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 20,
+      "Def": 8,
+      "Res": 35
+    },
+    {
+      "Class": "Summoner (F)",
+      "HP": 45,
+      "S/M": 50,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 20,
+      "Def": 8,
+      "Res": 35
+    },
+    {
+      "Class": "Journeyman (all)",
+      "HP": 85,
+      "S/M": 55,
+      "Skl": 40,
+      "Spd": 32,
+      "Lck": 40,
+      "Def": 18,
+      "Res": 20
+    },
+    {
+      "Class": "Recruit (all)",
+      "HP": 75,
+      "S/M": 45,
+      "Skl": 40,
+      "Spd": 40,
+      "Lck": 40,
+      "Def": 25,
+      "Res": 35
+    },
+    {
+      "Class": "Pupil (all)",
+      "HP": 55,
+      "S/M": 55,
+      "Skl": 40,
+      "Spd": 35,
+      "Lck": 40,
+      "Def": 10,
+      "Res": 30
+    },
+    {},
+    {
+      "Class": "Manakete (M)",
+      "HP": 95,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 25,
+      "Def": 0,
+      "Res": 10
+    },
+    {
+      "Class": "Manakete (F)",
+      "HP": 95,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 25,
+      "Def": 0,
+      "Res": 10
+    },
+    {
+      "Class": "Fighter",
+      "HP": 85,
+      "S/M": 55,
+      "Skl": 35,
+      "Spd": 30,
+      "Lck": 15,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Warrior",
+      "HP": 80,
+      "S/M": 45,
+      "Skl": 25,
+      "Spd": 20,
+      "Lck": 15,
+      "Def": 16,
+      "Res": 17
+    },
+    {
+      "Class": "Brigand",
+      "HP": 82,
+      "S/M": 50,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 15,
+      "Def": 10,
+      "Res": 13
+    },
+    {
+      "Class": "Pirate",
+      "HP": 75,
+      "S/M": 50,
+      "Skl": 35,
+      "Spd": 25,
+      "Lck": 15,
+      "Def": 10,
+      "Res": 13
+    },
+    {
+      "Class": "Berserker",
+      "HP": 75,
+      "S/M": 50,
+      "Skl": 35,
+      "Spd": 25,
+      "Lck": 15,
+      "Def": 10,
+      "Res": 13
+    },
+    {
+      "Class": "Pegasus Knight",
+      "HP": 65,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 40,
+      "Lck": 35,
+      "Def": 12,
+      "Res": 35
+    },
+    {
+      "Class": "Falcon Knight",
+      "HP": 60,
+      "S/M": 30,
+      "Skl": 30,
+      "Spd": 30,
+      "Lck": 30,
+      "Def": 12,
+      "Res": 30
+    },
+    {
+      "Class": "Troubadour",
+      "HP": 50,
+      "S/M": 25,
+      "Skl": 35,
+      "Spd": 55,
+      "Lck": 45,
+      "Def": 12,
+      "Res": 40
+    },
+    {
+      "Class": "Valkyrie",
+      "HP": 45,
+      "S/M": 35,
+      "Skl": 25,
+      "Spd": 45,
+      "Lck": 40,
+      "Def": 10,
+      "Res": 40
+    },
+    {
+      "Class": "Necromancer",
+      "HP": 45,
+      "S/M": 55,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 20,
+      "Def": 10,
+      "Res": 35
+    },
+    {
+      "Class": "Fleet",
+      "HP": 75,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 32,
+      "Lck": 15,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Phantom",
+      "HP": 0,
+      "S/M": 55,
+      "Skl": 35,
+      "Spd": 45,
+      "Lck": 50,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Revenant",
+      "HP": 95,
+      "S/M": 50,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 10,
+      "Def": 10,
+      "Res": 13
+    },
+    {
+      "Class": "Entombed",
+      "HP": 85,
+      "S/M": 40,
+      "Skl": 25,
+      "Spd": 17,
+      "Lck": 50,
+      "Def": 10,
+      "Res": 13
+    },
+    {
+      "Class": "Bonewalker (melee)",
+      "HP": 80,
+      "S/M": 50,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 10,
+      "Def": 12,
+      "Res": 15
+    },
+    {
+      "Class": "Bonewalker (bow)",
+      "HP": 70,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 32,
+      "Lck": 10,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Wight (melee)",
+      "HP": 65,
+      "S/M": 25,
+      "Skl": 25,
+      "Spd": 20,
+      "Lck": 10,
+      "Def": 15,
+      "Res": 22
+    },
+    {
+      "Class": "Weight (bow)",
+      "HP": 65,
+      "S/M": 30,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 10,
+      "Def": 15,
+      "Res": 20
+    },
+    {},
+    {
+      "Class": "Bael",
+      "HP": 82,
+      "S/M": 50,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 15,
+      "Def": 18,
+      "Res": 13
+    },
+    {
+      "Class": "Elder Bael",
+      "HP": 85,
+      "S/M": 45,
+      "Skl": 25,
+      "Spd": 20,
+      "Lck": 10,
+      "Def": 21,
+      "Res": 17
+    },
+    {
+      "Class": "Cyclops",
+      "HP": 95,
+      "S/M": 30,
+      "Skl": 35,
+      "Spd": 25,
+      "Lck": 10,
+      "Def": 24,
+      "Res": 25
+    },
+    {
+      "Class": "Mauthedoog",
+      "HP": 70,
+      "S/M": 35,
+      "Skl": 45,
+      "Spd": 45,
+      "Lck": 30,
+      "Def": 15,
+      "Res": 20
+    },
+    {
+      "Class": "Gwyllgi",
+      "HP": 65,
+      "S/M": 28,
+      "Skl": 35,
+      "Spd": 35,
+      "Lck": 25,
+      "Def": 16,
+      "Res": 22
+    },
+    {
+      "Class": "Tarvos",
+      "HP": 80,
+      "S/M": 35,
+      "Skl": 40,
+      "Spd": 28,
+      "Lck": 10,
+      "Def": 15,
+      "Res": 15
+    },
+    {
+      "Class": "Maelduin",
+      "HP": 75,
+      "S/M": 30,
+      "Skl": 30,
+      "Spd": 18,
+      "Lck": 10,
+      "Def": 13,
+      "Res": 20
+    },
+    {
+      "Class": "Mogall",
+      "HP": 50,
+      "S/M": 45,
+      "Skl": 32,
+      "Spd": 30,
+      "Lck": 30,
+      "Def": 10,
+      "Res": 28
+    },
+    {
+      "Class": "Arch Mogall",
+      "HP": 45,
+      "S/M": 55,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 20,
+      "Def": 10,
+      "Res": 28
+    },
+    {
+      "Class": "Gorgon Egg",
+      "HP": 100,
+      "S/M": 0,
+      "Skl": 0,
+      "Spd": 0,
+      "Lck": 0,
+      "Def": 0,
+      "Res": 0
+    },
+    {
+      "Class": "Gorgon",
+      "HP": 45,
+      "S/M": 60,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 30,
+      "Def": 10,
+      "Res": 40
+    },
+    {
+      "Class": "Gargoyle",
+      "HP": 80,
+      "S/M": 45,
+      "Skl": 35,
+      "Spd": 35,
+      "Lck": 10,
+      "Def": 25,
+      "Res": 15
+    },
+    {
+      "Class": "Deathgoyle",
+      "HP": 75,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 25,
+      "Lck": 10,
+      "Def": 20,
+      "Res": 17
+    },
+    {
+      "Class": "Dracozombie",
+      "HP": 85,
+      "S/M": 35,
+      "Skl": 20,
+      "Spd": 20,
+      "Lck": 25,
+      "Def": 30,
+      "Res": 10
+    },
+    {
+      "Class": "Demon King",
+      "HP": 95,
+      "S/M": 40,
+      "Skl": 30,
+      "Spd": 20,
+      "Lck": 25,
+      "Def": 20,
+      "Res": 20
+    },
+    {
+      "Class": "Civilian",
+      "HP": 10,
+      "S/M": 0,
+      "Skl": 0,
+      "Spd": 0,
+      "Lck": 0,
+      "Def": 0,
+      "Res": 10
+    },
+    {
+      "Class": "Pontifex",
+      "HP": 10,
+      "S/M": 0,
+      "Skl": 0,
+      "Spd": 0,
+      "Lck": 0,
+      "Def": 0,
+      "Res": 10
+    }
+  ]
+}
