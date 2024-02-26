@@ -1,0 +1,1194 @@
+{
+  "classes": [
+    {
+      "Class": "Lord (Eirika)",
+      "Promotion": "Great Lord (Eirika)",
+      "HP": 4,
+      "S/M": 2,
+      "Skl": 2,
+      "Spd": 1,
+      "Def": 3,
+      "Res": 5,
+      "Con": 2,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": 70
+        }
+      ]
+    },
+    {
+      "Class": "Lord (Ephraim)",
+      "Promotion": "Great Lord (Ephraim)",
+      "HP": 4,
+      "S/M": 2,
+      "Skl": 3,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 5,
+      "Con": 2,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Lance",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Recruit",
+      "Promotion": "Cavalier (F)",
+      "HP": 1,
+      "S/M": 0,
+      "Skl": 2,
+      "Spd": 2,
+      "Def": 0,
+      "Res": 2,
+      "Con": 3,
+      "Mov": 3,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "E,"
+        },
+        {
+          "Weapon": "Lance",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Recruit",
+      "Promotion": "Knight (F)",
+      "HP": 2,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 1,
+      "Def": 2,
+      "Res": 0,
+      "Con": 4,
+      "Mov": 0,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Lance",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Recruit",
+      "Promotion": "Recruit (2)",
+      "HP": 2,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 1,
+      "Def": 2,
+      "Res": 1,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Lance",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Cavalier (M)",
+      "Promotion": "Paladin (M)",
+      "HP": 2,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 1,
+      "Def": 2,
+      "Res": 1,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Cavalier (F)",
+      "Promotion": "Paladin (F)",
+      "HP": 1,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 2,
+      "Def": 1,
+      "Res": 2,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Cavalier (M)",
+      "Promotion": "Great Knight (M)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 1,
+      "Con": 4,
+      "Mov": -1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Axe",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Cavalier (F)",
+      "Promotion": "Great Knight (F)",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 2,
+      "Con": 1,
+      "Mov": -1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Axe",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Knight (M)",
+      "Promotion": "General (M)",
+      "HP": 4,
+      "S/M": 2,
+      "Skl": 2,
+      "Spd": 3,
+      "Def": 2,
+      "Res": 3,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "E,"
+        },
+        {
+          "Weapon": "Lance",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Axe",
+          "Rank": "E"
+        }
+      ]
+    },
+    {
+      "Class": "Knight (F)",
+      "Promotion": "General (F)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 3,
+      "Spd": 2,
+      "Def": 3,
+      "Res": 3,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "E,"
+        },
+        {
+          "Weapon": "Lance",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Axe",
+          "Rank": "E"
+        }
+      ]
+    },
+    {
+      "Class": "Knight (M)",
+      "Promotion": "Great Knight (M)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 1,
+      "Con": 0,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "E,"
+        },
+        {
+          "Weapon": "Axe",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Knight (F)",
+      "Promotion": "Great Knight (F)",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 2,
+      "Con": 0,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "E,"
+        },
+        {
+          "Weapon": "Axe",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Recruit (2)",
+      "Promotion": "Paladin (F)",
+      "HP": 1,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 2,
+      "Def": 1,
+      "Res": 2,
+      "Con": 3,
+      "Mov": 3,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Recruit (2)",
+      "Promotion": "Recruit (3)",
+      "HP": 2,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 1,
+      "Def": 2,
+      "Res": 1,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Lance",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Thief",
+      "Promotion": "Assassin",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 0,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 2,
+      "Con": 2,
+      "Mov": 0,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Thief",
+      "Promotion": "Rogue",
+      "HP": 2,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 2,
+      "Con": 1,
+      "Mov": 0,
+      "Weapon Ranks": [
+        {
+          "Weapon": "–",
+          "Rank": null
+        }
+      ]
+    },
+    {
+      "Class": "Mercenary",
+      "Promotion": "Hero",
+      "HP": 4,
+      "S/M": 1,
+      "Skl": 2,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 2,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Axe",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Mercenary",
+      "Promotion": "Ranger (M)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 1,
+      "Def": 3,
+      "Res": 3,
+      "Con": 0,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Bow",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Myrmidon (M)",
+      "Promotion": "Swordmaster (M)",
+      "HP": 5,
+      "S/M": 2,
+      "Skl": 0,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 1,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Myrmidon (F)",
+      "Promotion": "Swordmaster (F)",
+      "HP": 4,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 1,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Myrmidon (M)",
+      "Promotion": "Assassin (M)",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 0,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 2,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "–",
+          "Rank": null
+        }
+      ]
+    },
+    {
+      "Class": "Myrmidon (F)",
+      "Promotion": "Assassin (F)",
+      "HP": 2,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 1,
+      "Def": 2,
+      "Res": 1,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "–",
+          "Rank": null
+        }
+      ]
+    },
+    {
+      "Class": "Archer (M)",
+      "Promotion": "Sniper (M)",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 2,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 3,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Bow",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Archer (F)",
+      "Promotion": "Sniper (F)",
+      "HP": 4,
+      "S/M": 3,
+      "Skl": 1,
+      "Spd": 1,
+      "Def": 2,
+      "Res": 2,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Bow",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Archer (M)",
+      "Promotion": "Ranger (M)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 1,
+      "Def": 3,
+      "Res": 3,
+      "Con": 2,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Archer (F)",
+      "Promotion": "Ranger (F)",
+      "HP": 2,
+      "S/M": 2,
+      "Skl": 2,
+      "Spd": 1,
+      "Def": 3,
+      "Res": 3,
+      "Con": 3,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Wyvern Rider",
+      "Promotion": "Wyvern Lord",
+      "HP": 4,
+      "S/M": 2,
+      "Skl": 2,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 0,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "D,"
+        },
+        {
+          "Weapon": "Lance",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Wyvern Rider",
+      "Promotion": "Wyvern Knight (M)",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 2,
+      "Spd": 3,
+      "Def": 0,
+      "Res": 1,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Lance",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Pupil",
+      "Promotion": "Mage (M)",
+      "HP": 1,
+      "S/M": 0,
+      "Skl": 1,
+      "Spd": 2,
+      "Def": 1,
+      "Res": 2,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Anima",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Pupil",
+      "Promotion": "Shaman (M)",
+      "HP": 1,
+      "S/M": 2,
+      "Skl": 0,
+      "Spd": 1,
+      "Def": 1,
+      "Res": 2,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Anima",
+          "Rank": "= 0,"
+        },
+        {
+          "Weapon": "Dark",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Pupil",
+      "Promotion": "Pupil (2)",
+      "HP": 2,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 2,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Anima",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Mage (M)",
+      "Promotion": "Sage (M)",
+      "HP": 4,
+      "S/M": 1,
+      "Skl": 0,
+      "Spd": 0,
+      "Def": 3,
+      "Res": 3,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "D,"
+        },
+        {
+          "Weapon": "Anima",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Light",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Mage (F)",
+      "Promotion": "Sage (F)",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 3,
+      "Res": 3,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "D,"
+        },
+        {
+          "Weapon": "Anima",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Light",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Mage (M)",
+      "Promotion": "Mage Knight (M)",
+      "HP": 4,
+      "S/M": 2,
+      "Skl": 0,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 2,
+      "Con": 2,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "D,"
+        },
+        {
+          "Weapon": "Anima",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Mage (F)",
+      "Promotion": "Mage Knight (F)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 2,
+      "Con": 3,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "D,"
+        },
+        {
+          "Weapon": "Anima",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Shaman",
+      "Promotion": "Druid",
+      "HP": 4,
+      "S/M": 0,
+      "Skl": 0,
+      "Spd": 3,
+      "Def": 2,
+      "Res": 2,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "E,"
+        },
+        {
+          "Weapon": "Anima",
+          "Rank": "D"
+        },
+        {
+          "Weapon": "Dark",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Shaman",
+      "Promotion": "Summoner",
+      "HP": 3,
+      "S/M": 0,
+      "Skl": 1,
+      "Spd": 3,
+      "Def": 1,
+      "Res": 3,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "E,"
+        },
+        {
+          "Weapon": "Dark",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Pupil (2)",
+      "Promotion": "Sage (M)",
+      "HP": 4,
+      "S/M": 1,
+      "Skl": 0,
+      "Spd": 0,
+      "Def": 3,
+      "Res": 3,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "D,"
+        },
+        {
+          "Weapon": "Anima",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Light",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Pupil (2)",
+      "Promotion": "Pupil (3)",
+      "HP": 4,
+      "S/M": 2,
+      "Skl": 0,
+      "Spd": 1,
+      "Def": 3,
+      "Res": 3,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Anima",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Dark",
+          "Rank": "D,"
+        },
+        {
+          "Weapon": "Light",
+          "Rank": "E"
+        }
+      ]
+    },
+    {
+      "Class": "Priest",
+      "Promotion": "Bishop (M)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 3,
+      "Res": 2,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Light",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Priest",
+      "Promotion": "Sage (M)",
+      "HP": 4,
+      "S/M": 1,
+      "Skl": 0,
+      "Spd": 0,
+      "Def": 3,
+      "Res": 3,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Anima",
+          "Rank": "C,"
+        },
+        {
+          "Weapon": "Light",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Monk",
+      "Promotion": "Bishop (M)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 3,
+      "Res": 2,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "C,"
+        },
+        {
+          "Weapon": "Light",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Monk",
+      "Promotion": "Sage (M)",
+      "HP": 4,
+      "S/M": 1,
+      "Skl": 0,
+      "Spd": 0,
+      "Def": 3,
+      "Res": 3,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "D,"
+        },
+        {
+          "Weapon": "Anima",
+          "Rank": "C,"
+        },
+        {
+          "Weapon": "Light",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Cleric",
+      "Promotion": "Bishop (F)",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 2,
+      "Spd": 1,
+      "Def": 2,
+      "Res": 2,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Staff",
+          "Rank": "+ 40,"
+        },
+        {
+          "Weapon": "Light",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Cleric",
+      "Promotion": "Valkyrie",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 3,
+      "Con": 2,
+      "Mov": 2,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Light",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Journeyman",
+      "Promotion": "Fighter",
+      "HP": 2,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 0,
+      "Res": 1,
+      "Con": 3,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Axe",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Journeyman",
+      "Promotion": "Pirate",
+      "HP": 2,
+      "S/M": 2,
+      "Skl": 0,
+      "Spd": 1,
+      "Def": 1,
+      "Res": 0,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Axe",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Journeyman",
+      "Promotion": "Journeyman (2)",
+      "HP": 2,
+      "S/M": 0,
+      "Skl": 2,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 2,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Axe",
+          "Rank": 30
+        }
+      ]
+    },
+    {
+      "Class": "Fighter",
+      "Promotion": "Warrior",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 2,
+      "Spd": 0,
+      "Def": 3,
+      "Res": 3,
+      "Con": 2,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Axe",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Bow",
+          "Rank": "E"
+        }
+      ]
+    },
+    {
+      "Class": "Fighter",
+      "Promotion": "Hero",
+      "HP": 4,
+      "S/M": 1,
+      "Skl": 2,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 2,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "C"
+        }
+      ]
+    },
+    {
+      "Class": "Pirate",
+      "Promotion": "Berserker",
+      "HP": 4,
+      "S/M": 1,
+      "Skl": 1,
+      "Spd": 1,
+      "Def": 2,
+      "Res": 2,
+      "Con": 3,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Axe",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Pirate",
+      "Promotion": "Warrior",
+      "HP": 3,
+      "S/M": 1,
+      "Skl": 2,
+      "Spd": 0,
+      "Def": 3,
+      "Res": 3,
+      "Con": 3,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Axe",
+          "Rank": 40
+        },
+        {
+          "Weapon": "Bow",
+          "Rank": "E"
+        }
+      ]
+    },
+    {
+      "Class": "Journeyman (2)",
+      "Promotion": "Hero",
+      "HP": 4,
+      "S/M": 1,
+      "Skl": 2,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 2,
+      "Con": 3,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "C"
+        }
+      ]
+    },
+    {
+      "Class": "Journeyman (2)",
+      "Promotion": "Journeyman (3)",
+      "HP": 4,
+      "S/M": 1,
+      "Skl": 2,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 2,
+      "Con": 0,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Axe",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Pegasus Knight",
+      "Promotion": "Falcoknight",
+      "HP": 5,
+      "S/M": 2,
+      "Skl": 0,
+      "Spd": 2,
+      "Def": 2,
+      "Res": 2,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Sword",
+          "Rank": "E,"
+        },
+        {
+          "Weapon": "Lance",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Pegasus Knight",
+      "Promotion": "Wyvern Knight (F)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 2,
+      "Def": 1,
+      "Res": 1,
+      "Con": 4,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Lance",
+          "Rank": 40
+        }
+      ]
+    },
+    {
+      "Class": "Troubadour",
+      "Promotion": "Valkyrie",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 3,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Light",
+          "Rank": "D"
+        }
+      ]
+    },
+    {
+      "Class": "Troubadour",
+      "Promotion": "Mage Knight (F)",
+      "HP": 3,
+      "S/M": 2,
+      "Skl": 1,
+      "Spd": 0,
+      "Def": 2,
+      "Res": 2,
+      "Con": 1,
+      "Mov": 1,
+      "Weapon Ranks": [
+        {
+          "Weapon": "Anima",
+          "Rank": "C"
+        }
+      ]
+    }
+  ]
+}

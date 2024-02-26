@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Emblem-API/static/css/main.6a810355.css",
+    "main.js": "/Emblem-API/static/js/main.b26627a3.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Emblem-API/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/gba-fe-dialogue.ttf": "/Emblem-API/static/media/gba-fe-dialogue.3878325e3cd6cc993944.ttf",
+    "index.html": "/Emblem-API/index.html",
+    "main.6a810355.css.map": "/Emblem-API/static/css/main.6a810355.css.map",
+    "main.b26627a3.js.map": "/Emblem-API/static/js/main.b26627a3.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Emblem-API/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a810355.css",
+    "static/js/main.b26627a3.js"
+  ]
+}
