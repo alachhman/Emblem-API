@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Emblem-API/static/css/main.6a810355.css",
-    "main.js": "/Emblem-API/static/js/main.fe581ae7.js",
-    "static/js/787.9e9f4ffd.chunk.js": "/Emblem-API/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/gba-fe-dialogue.ttf": "/Emblem-API/static/media/gba-fe-dialogue.3878325e3cd6cc993944.ttf",
-    "index.html": "/Emblem-API/index.html",
-    "main.6a810355.css.map": "/Emblem-API/static/css/main.6a810355.css.map",
-    "main.fe581ae7.js.map": "/Emblem-API/static/js/main.fe581ae7.js.map",
-    "787.9e9f4ffd.chunk.js.map": "/Emblem-API/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "/static/css/main.19f684ea.css",
+    "main.js": "/static/js/main.881145ed.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/gba-fe-dialogue.ttf": "/static/media/gba-fe-dialogue.3878325e3cd6cc993944.ttf",
+    "index.html": "/index.html",
+    "main.19f684ea.css.map": "/static/css/main.19f684ea.css.map",
+    "main.881145ed.js.map": "/static/js/main.881145ed.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a810355.css",
-    "static/js/main.fe581ae7.js"
+    "static/css/main.19f684ea.css",
+    "static/js/main.881145ed.js"
   ]
 }
