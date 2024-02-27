@@ -1,0 +1,10 @@
+{
+	"fe8": [
+		"https://fe-api.com/fe8/classes.json",
+		"https://fe-api.com/fe8/classesGrowths.json",
+		"https://fe-api.com/fe8/classesMaxStats.json",
+		"https://fe-api.com/fe8/classesPromotionGrowth.json",
+		"https://fe-api.com/fe8/unitGrowths.json",
+		"https://fe-api.com/fe8/units.json"
+	]
+}
