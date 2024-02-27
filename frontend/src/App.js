@@ -1,12 +1,15 @@
 import './App.css';
-import Landing from "./components/landing";
+import {useRoutes} from "react-router-dom";
+import Routes from "./Routes";
 
 function App() {
-    return (
-        <div className="App">
-            <Landing/>
-        </div>
-    );
+	const routes = useRoutes(Routes);
+
+	return (
+		<div className="App">
+			{routes}
+		</div>
+	);
 }
 
 export default App;

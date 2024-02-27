@@ -6,7 +6,7 @@ const CodeBlock = () => {
                 style={{color: "lightseagreen"}}>"node-fetch"</span>;
             </p>
             <p><span style={{color: "green"}}>fetch</span>(<span
-                style={{color: "lightseagreen"}}>"https://www.FE-API.com/fe8/units"</span>)
+                style={{color: "lightseagreen"}}>"https://www.FE-API.com/fe8/units.json"</span>)
             </p>
             <p className={"indent"}>.<span style={{color: "blue"}}>then</span>((<span
                 style={{color: "green"}}>response</span>) => <span
